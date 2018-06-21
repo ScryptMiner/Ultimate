@@ -1,22 +1,22 @@
-Ultima 0.12.1.1
+Ultimate 0.18.01.01
 ===============================
 
 
-http://ultima.qa
+http://TBA.com
 
 
-What is Ultima?
+What is Ultimate?
 ----------------
 
 The emergence of blockchain-based decentralized digital currencies woke up hopes for the beginning of a better world. A world, where wealth is distributed fairly without control and influence of a powerful middleman. Although blockchain technology equipped us with a perfect tool to make this dream come true, it will not happen by itself.
 
-The concept of a socially responsible cryptocurrency inspired us to create Ultima - a platform designed to support endeavors of its community in various areas. The Ultima Multi-Module Platform (MMP) includes functionalities ranging from a digital marketplace to crowdfunding and charity components. By working together on noble causes we will regain the faith in cryptocurrencies.
+The concept of a socially responsible cryptocurrency inspired us to create Ultima - a platform designed to support endeavors of its community in various areas. The Ultimate Multi-Module Platform (MMP) includes functionalities ranging from a digital marketplace to crowdfunding and charity components. By working together on noble causes we will regain the faith in cryptocurrencies.
 
-Additional information, wallets, specifications & roadmap: http://ultima.qa
+Additional information, wallets, specifications & roadmap: http://TBA.com
 
 
 
-Building Ultima Core - Unix
+Building Ultimate Core - Unix
 ----------------
 
 Use the autogen script to prepare the build environment.
